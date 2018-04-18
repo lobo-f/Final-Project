@@ -1,7 +1,7 @@
-#Final-Project
+# Final-Project
 Object Detection and Instance Segmentation using Mask R-CNN
 
-#Dataset 
+# Dataset
 MS COCO API
 Training: Train_Images 2014     Annotations :  Train/Val annotations 2014
 Validation : Val_Images 2014
