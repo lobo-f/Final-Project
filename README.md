@@ -27,9 +27,9 @@ Download the coco pretrained weights mask_rcnn_balloon.h5 from the release page
 
 Clone the repo to ensure that mrcnn is available on the local
 
-Run inspect_data
+Run Data_Preprocessing
 
-Run inspect_model
+Run Trained_model
 
 Run OpenCV Object Detection
 
