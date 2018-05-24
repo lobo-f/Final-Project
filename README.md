@@ -1,5 +1,4 @@
-# Final-Project
-Object Detection and Instance Segmentation using Mask R-CNN
+# Object Detection and Instance Segmentation using Mask R-CNN
 
 # Dataset
 MS COCO API
